@@ -1,6 +1,6 @@
 # unity-monster-chase
 
-Following a youtube tutorial, I created a monster chase game using Unity. This allowed me to gain a better knowledge of how to work with the Unity software as well as helped me gain software animation skills.
+I utilized Unity Hub and C# by following a YouTube tutorial to create a simplified version of the video game, Monster Chase. This allowed me to gain a better knowledge of how to work with the Unity software as well as helped me gain software animation skills.
 
 ## Starting Screen
 ![image](https://user-images.githubusercontent.com/74090811/211224882-763cd24b-fdaa-43e6-ade2-52b1cc21fa7a.png)
